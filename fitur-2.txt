@@ -1,0 +1,3 @@
+ini adalah isi dari fitur 2
+1. Membuat layout dan tampilan halaman dashboard
+2. Menampilkan data dashboard dari server ke halaman dashboard
